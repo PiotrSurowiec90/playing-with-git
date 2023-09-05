@@ -1,2 +1,6 @@
 Git is Awesome
 New text
+Git is Awesome
+New text
+Git is Awesome
+New text
